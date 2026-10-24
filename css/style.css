@@ -274,7 +274,7 @@ body{background:
   radial-gradient(circle at 12% 88%,rgba(180,199,229,.55) 0,transparent 34%),
   color-mix(in srgb,var(--blue) 14%,#fff);background-attachment:fixed}
 .hero-title{transform:none;text-shadow:4px 4px 0 var(--blue-deep)}
-.mark{background:linear-gradient(transparent 58%,var(--pink-deep) 58%,var(--pink-deep) 90%,transparent 90%);opacity:1}
+/* .mark{background:linear-gradient(transparent 58%,var(--pink-deep) 58%,var(--pink-deep) 90%,transparent 90%);opacity:1} */
 .squig{text-decoration-color:var(--lavender)}
 .hero{background:radial-gradient(circle at 0% 100%,rgba(220,200,245,.22) 0,transparent 45%),var(--ink)}
 .hero::after{content:"";position:absolute;left:38%;bottom:-120px;width:200px;aspect-ratio:1;border-radius:50%;background:var(--lavender);opacity:.9;z-index:0}
